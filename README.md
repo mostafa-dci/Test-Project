@@ -7,3 +7,5 @@
 3. Stage that file (git add README.md).
 4. Commit the change.
 5. Upload to github Server (git push).
+
+<hr>
